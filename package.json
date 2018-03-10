@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Learn restful API using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anachmad/node-todo.git"
+  },
+  "author": "anachmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anachmad/node-todo/issues"
+  },
+  "homepage": "https://github.com/anachmad/node-todo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
